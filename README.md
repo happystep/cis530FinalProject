@@ -20,7 +20,7 @@ Code for
   Python 3.x
   NLTK
   Tensorflow
-  Tsflearn
+  TfLearn
   
   to Run the chatbot run the following command
   
